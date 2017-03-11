@@ -1,5 +1,4 @@
 ---
-layout: default 
-title: Informática 2
-
+layout: turma
+title: "Informática 2"
 ---
